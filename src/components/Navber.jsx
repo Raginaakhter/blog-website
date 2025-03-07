@@ -26,7 +26,7 @@ const Navber = () => {
                 </button>
 
                 <div class="hidden ml-auto lg:flex lg:items-center lg:justify-center lg:space-x-10">
-                    <Link to="/" title="" class="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Home </Link>
+                    <Link to="/" title="" class="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> Hero </Link>
 
                     <Link to="/about" title="" class="text-base font-semibold text-black transition-all duration-200 hover:text-opacity-80"> About </Link>
 
