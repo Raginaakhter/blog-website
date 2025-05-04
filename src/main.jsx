@@ -36,7 +36,7 @@ const router = createBrowserRouter([
         element:<Contact/>
       },
       {
-        path:"/singlepage/:id",
+        path:"/singlepage",
         element:<SingleBlogpage/>
       },
     
